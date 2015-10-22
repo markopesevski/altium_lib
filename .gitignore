@@ -1,0 +1,10 @@
+*.bak
+*~
+*.zip
+*.rar
+Examples/*
+trash/*
+tmp/*
+*.o
+*.cout
+
