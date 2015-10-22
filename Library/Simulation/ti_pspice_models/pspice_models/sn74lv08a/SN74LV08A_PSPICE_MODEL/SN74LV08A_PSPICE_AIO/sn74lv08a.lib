@@ -1,0 +1,72 @@
+* SN74LV08A
+*****************************************************************************
+* (C) Copyright 2012 Texas Instruments Incorporated. All rights reserved.                                            
+*****************************************************************************
+** This model is designed as an aid for customers of Texas Instruments.
+** TI and its licensors and suppliers make no warranties, either expressed
+** or implied, with respect to this model, including the warranties of 
+** merchantability or fitness for a particular purpose.  The model is
+** provided solely on an "as is" basis.  The entire risk as to its quality
+** and performance is with the customer.
+*****************************************************************************
+*
+** Released by: WEBENCH(R) Design Center, Texas Instruments Inc.
+* Part: SN74LV08A
+* Date: 09/09/2014
+* Model Type: All In One
+* Simulator: Pspice
+* Simulator Version: Pspice 16.2.0.p001
+* EVM Order Number: N/A 
+* EVM Users Guide: N/A
+* Datasheet: SCLS387L – September 1997 - Revised October 2010
+*
+* Model Version: 1.0
+*
+*****************************************************************************
+*
+* Updates:
+*
+* Version 1.0 : New model
+*
+************************************************************************* 
+************************************************************************
+*$
+.SUBCKT SN74LV08A A B Y VCC GND
+R_RA         0 A  10e6 TC=0,0 
+X_U1         A B AND_1 VCC GND SN74LV08A_AND 
+R_RB         0 B  10e6 TC=0,0 
+X_S1    VCC N00350 AND_2 AND_1 SN74LV08A_S1 
+V_V1         N00350 GND 1.2Vdc
+X_S2    VCC N03359 Y AND_2 SN74LV08A_S2 
+C_CA         0 A  3p  TC=0,0 
+C_CB         0 B  3p  TC=0,0 
+V_V2         N03359 GND 5Vdc
+.ENDS
+*$
+***
+.subckt SN74LV08A_S1 1 2 3 4  
+S_S1         3 4 1 2 _S1
+RS_S1         1 2 1G
+.MODEL         _S1 VSWITCH Roff=1e6 Ron=1.0 Voff=0.0V Von=1.0V
+.ends
+*$
+***
+.subckt SN74LV08A_S2 1 2 3 4  
+S_S2         3 4 1 2 _S2
+RS_S2         1 2 1G
+.MODEL         _S2 VSWITCH Roff=1e6 Ron=1.0 Voff=1.0V Von=0.0V
+.ends
+*$
+***
+.SUBCKT SN74LV08A_AND A B Y VCC GND
+ET NT GND VALUE = {0.5*V(VCC,GND)}
+RQ VCC GND 1.1e6
+EA NA GND VALUE = {0.5*(SGN(V(A,GND)- V(NT,GND))+1)}
+EB NB GND VALUE = {0.5*(SGN(V(B,GND)- V(NT,GND))+1)}
+EO NO GND VALUE = {V(NA,GND)*V(NB,GND)*V(VCC,GND)}
+RO1 NO NO1 50
+RO2 NO1 Y 50
+CO NO1 GND 0.1f
+.ENDS
+*$
+

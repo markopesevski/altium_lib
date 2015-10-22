@@ -1,0 +1,33 @@
+Component Name : C8051F800-GM
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 21
+          P0.0           1              Passive
+          GND            2              Passive
+          VDD            3              Passive
+          R\S\T\/C2CK    4              Passive
+          P2.0/C2D       5              Passive
+          P1.7           6              Passive
+          P1.6           7              Passive
+          P1.5           8              Passive
+          P1.4           9              Passive
+          P1.3           10             Passive
+          P1.2           11             Passive
+          P1.1           12             Passive
+          P1.0           13             Passive
+          P0.7           14             Passive
+          P0.6           15             Passive
+          P0.5           16             Passive
+          P0.4           17             Passive
+          P0.3           18             Passive
+          P0.2           19             Passive
+          P0.1           20             Passive
+          EP             21             Passive
+          Hidden Pins : 
+

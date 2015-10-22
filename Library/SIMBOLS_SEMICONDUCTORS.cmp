@@ -1,0 +1,22 @@
+Component Name : SERIE DIODES_1
+
+Part Count : 3
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?A
+     Pins - (Normal) : 3
+          IO1-1          1              Passive
+          IO2-1          6              Passive
+          GND            2              Passive
+          Hidden Pins : 
+
+Part : U?B
+     Pins - (Normal) : 3
+          IO1-1          4              Passive
+          IO2-1          3              Passive
+          GND            5              Passive
+          Hidden Pins : 
+
