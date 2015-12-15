@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\work\AltiumISR\Library\CSE_LIB.XLS;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\sidru\Documents\work\LLibreries\Altium_ISR_Lib\Library\CSE_LIB.XLS;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,52 +19,37 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Microcontroladors$
+LastFocusedTable=Resistencies$Excel_BuiltIn__FilterDatabase
 [Table1]
 SchemaName=
 TableName=Analogics Amplificadors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=137|Description0=417|Library Ref0=115|Footprint Ref0=111|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=128|Voltage0=72|Library path0=186|Footprint path0=174|Magatzem0=90|Quantitat0=84|Obsolet0=88|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table2]
 SchemaName=
 TableName=Analogics Generics$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Description0=259|Library Ref0=90|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=100|Library path0=144|Footprint path0=114|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table3]
 SchemaName=
 TableName=Analogics Switch$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Description0=298|Library Ref0=101|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=101|Library path0=186|Footprint path0=170|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table4]
 SchemaName=
 TableName=Bateries$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=160|Description0=572|Library Ref0=93|Footprint Ref0=195|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=93|Voltage0=72|Capacity0=77|Library path0=136|Footprint path0=174|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table5]
 SchemaName=
 TableName=Condensadors No Polaritzats$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Description0=251|Library Ref0=90|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=59|Dielectric0=80|Voltage0=72|Dimensions0=96|Library path0=173|Footprint path0=161|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=295|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table6]
 SchemaName=
 TableName=Condensadors No Polaritzats$Excel_BuiltIn__FilterDatabase
@@ -83,9 +68,6 @@ TableName=Condensadors Polaritzats$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=134|Description0=393|Library Ref0=97|Footprint Ref0=112|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=97|Code0=93|Value0=59|Tolerance0=83|DCL0=54|DF0=42|ESR 100KHz0=99|Library path0=173|Footprint path0=336|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=346|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table9]
 SchemaName=
 TableName=Condensadors Polaritzats$Excel_BuiltIn__FilterDatabase
@@ -98,198 +80,171 @@ TableName=Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=151|Description0=301|Library Ref0=220|Footprint Ref0=193|PCB3D Path0=100|PCB3D Ref0=91|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=156|gender0=68|Dimensions0=96|Library path0=210|Footprint path0=208|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table11]
 SchemaName=
 TableName=Control$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Description0=461|Library Ref0=90|Footprint Ref0=168|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=166|Code0=93|Value0=59|Voltage0=72|Library path0=178|Footprint path0=176|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table12]
 SchemaName=
 TableName=FA$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=110|Description0=547|Library Ref0=90|Footprint Ref0=172|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=106|Code0=93|Value0=110|Imax0=55|Fswmax0=73|Vimin0=60|Vimax0=62|Vomin0=65|Vomax0=67|Efficiency0=80|Library path0=137|Footprint path0=179|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [Table13]
 SchemaName=
 TableName=Frequencia$
 Enabled=True
 UserWhere=0
 UserWhereText=
+[Table14]
+SchemaName=
+TableName=Full25$
+Enabled=False
+UserWhere=0
+UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=165|Description0=296|Library Ref0=113|Footprint Ref0=154|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=86|Code0=93|Value0=77|Voltage0=72|Tolerancia0=86|Cload0=60|Library path0=154|Footprint path0=174|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=311|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table14]
+BrowserOrder_Visible=AVX PN 0=99|VW (DC) 0=68|VW (AC) 0=67|VB 0=64|VC 0=40|IVC0=40| IL 0=37|ET 0=37|ELD0=42| IP 0=38|Cap 0=46|Freq0=46| Vjump0=59| PDiss# Max0=84|Descripcio0=76|Footprint0=72|Metric0=68
+[Table15]
+SchemaName=
+TableName=Full25$_
+Enabled=False
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=
+[Table16]
 SchemaName=
 TableName=Inductius$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=129|Description0=293|Library Ref0=90|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|SRF0=63|DCR0=53|IDC0=55|Value0=59|Tolerance0=83|Library path0=173|Footprint path0=174|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=701|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table15]
+[Table17]
 SchemaName=
 TableName=Inductius$_
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table16]
+[Table18]
 SchemaName=
 TableName=Logica Conversors Dades$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=113|Description0=604|Library Ref0=106|Footprint Ref0=196|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=134|Code0=93|Value0=113|Voltage0=72|Library path0=245|Footprint path0=221|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table17]
+[Table19]
 SchemaName=
 TableName=Logica Programable$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Description0=94|Library Ref0=90|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=59|Gates0=60|ELC0=48|CLBs0=55|Slices0=57|RAMbits0=77|BlockRAMbits0=109|Multipliers0=89|DCMs0=63|UserI/O0=73|I/OPairs0=74|BitstreamSize0=106|InSystemFlashbits0=134|Library path0=99|Footprint path0=114|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table18]
+[Table20]
 SchemaName=
 TableName=Logica no programable i generic$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=144|Description0=217|Library Ref0=115|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=144|Voltage0=75|Library path0=171|Footprint path0=170|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table19]
+[Table21]
 SchemaName=
 TableName=Logica no programable i generic$Área_de_impresió
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table20]
+[Table22]
 SchemaName=
 TableName=MEMORIES$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=146|Description0=426|Library Ref0=125|Footprint Ref0=137|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=86|Code0=93|Value0=59|Bus width0=85|Voltage0=72|Voltage max0=101|Speed0=63|Library path0=181|Footprint path0=142|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table21]
+[Table23]
 SchemaName=
 TableName=Mecanica$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=177|Description0=177|Library Ref0=101|Footprint Ref0=177|PCB3D Path0=100|PCB3D Ref0=91|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=85|Code0=93|Value0=177|Magatzem0=90|Quantitat0=84|Obsolet0=73|Library path0=210|Footprint path0=174|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table22]
+[Table24]
 SchemaName=
 TableName=Microcontroladors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=100|Description0=100|Library Ref0=100|Footprint Ref0=100|Sim Description0=100|Sim Excluded Parts0=100|Sim File0=100|Sim Kind0=100|Sim Model Name0=100|Sim Netlist0=100|Sim Parameters0=100|Sim Port Map0=100|Sim Spice Prefix0=100|Sim subKind0=100|Part Type0=100|Code0=100|Value0=100|Bus width0=100|Voltage0=100|Voltage max0=100|FLASH0=100|SRAM0=100|Library path0=100|Footprint path0=100|Magatzem0=100|Quantitat0=100|Obsolet0=100|Manufacturer0=100|Distributor0=100|Price0=100|DatasheetDocument0=100|Equivalent10=100|Equivalent20=100|Equivalent30=100
-[Table23]
+[Table25]
 SchemaName=
 TableName=Microcontroladors$Excel_BuiltIn__FilterDatabase
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table24]
+[Table26]
 SchemaName=
 TableName=Microcontroladors$_
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table25]
+[Table27]
 SchemaName=
 TableName=Moduls comunicacio$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=133|Description0=725|Library Ref0=90|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=59|Power0=63|Library path0=164|Footprint path0=165|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table26]
+[Table28]
 SchemaName=
 TableName=Optiques$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=112|Description0=396|Library Ref0=90|Footprint Ref0=112|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=108|Code0=93|Value0=96|color10=63|color20=63|color30=63|Library path0=244|Footprint path0=174|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table27]
+[Table29]
 SchemaName=
 TableName=Optiques$Área_de_impresió
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table28]
+[Table30]
 SchemaName=
 TableName=Proteccio$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=108|Description0=366|Library Ref0=113|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=119|Code0=93|Value0=59|ITRIP0=56|VMAX0=64|IMAX0=59|Power0=63|TTT I0=54|TTTT0=53|Rmin0=56|RMAX0=63|RU0=43|TUV0=60|Library path0=173|Footprint path0=174|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=151|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table29]
+[Table31]
 SchemaName=
 TableName=Resistencies$
 Enabled=True
 UserWhere=0
 UserWhereText=
+[Table32]
+SchemaName=
+TableName=Resistencies$Excel_BuiltIn__FilterDatabase
+Enabled=False
+UserWhere=0
+UserWhereText=
 BrowserOrder_Sorting=
 BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=136|Description0=241|Library Ref0=90|Footprint Ref0=105|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=111|Code0=93|Value0=59|Tolerance0=83|Power0=63|Dimensions0=96|Library path0=173|Footprint path0=245|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=372|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table30]
+BrowserOrder_Visible=Part Number0=87|Part Type0=91|Code0=72|Value0=52|Tolerance0=72|Power0=55|Description0=168|Dimensions0=83|Library path0=140|Library Ref0=77|Footprint path0=129|Footprint Ref0=92|Magatzem0=76|Quantitat0=72|Obsolet0=64|Manufacturer0=93|Distributor0=79|Price0=47|DatasheetDocument0=128
+[Table33]
 SchemaName=
 TableName=Resistencies$_
 Enabled=False
 UserWhere=0
 UserWhereText=
-[Table31]
+[Table34]
 SchemaName=
 TableName=Semiconductors Diodes$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Description0=444|Library Ref0=105|Footprint Ref0=112|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Value0=90|Part Type0=111|Code0=93|Vrrm0=56|Vf0=87|Av Current0=92|Power0=63|Library path0=244|Footprint path0=174|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=365|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table32]
+[Table35]
 SchemaName=
 TableName=Semiconductors Transistors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=104|Description0=406|Library Ref0=117|Footprint Ref0=129|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=83|Code0=93|Value0=102|Power0=63|Library path0=244|Footprint path0=170|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=479|Equivalent10=96|Equivalent20=96|Equivalent30=96
-[Table33]
+[Table36]
 SchemaName=
 TableName=Sensors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=110|Description0=237|Library Ref0=90|Footprint Ref0=173|Sim Description0=120|Sim Excluded Parts0=139|Sim File0=71|Sim Kind0=78|Sim Model Name0=130|Sim Netlist0=90|Sim Parameters0=120|Sim Port Map0=109|Sim Spice Prefix0=119|Sim subKind0=100|Part Type0=119|Code0=93|Value0=94|Voltage0=72|Library path0=130|Footprint path0=245|Magatzem0=90|Quantitat0=84|Obsolet0=73|Manufacturer0=108|Distributor0=91|Price0=54|DatasheetDocument0=303|Equivalent10=96|Equivalent20=96|Equivalent30=96
 [FieldMap1]
 Options=FieldName=Analogics Amplificadors$.Part Number|TableNameOnly=Analogics Amplificadors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
@@ -887,88 +842,96 @@ Options=FieldName=Resistencies$.Sim Spice Prefix|TableNameOnly=Resistencies$|Fie
 [FieldMap298]
 Options=FieldName=Resistencies$.Sim subKind|TableNameOnly=Resistencies$|FieldNameOnly=Sim subKind|FieldType=1|ParameterName=[Sim subKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap299]
-Options=FieldName=Semiconductors Diodes$.Part Number|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistencies$Excel_BuiltIn__FilterDatabase.Part Number|TableNameOnly=Resistencies$Excel_BuiltIn__FilterDatabase|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap300]
-Options=FieldName=Semiconductors Diodes$.Description|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistencies$Excel_BuiltIn__FilterDatabase.Description|TableNameOnly=Resistencies$Excel_BuiltIn__FilterDatabase|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap301]
-Options=FieldName=Semiconductors Diodes$.Library Ref|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistencies$Excel_BuiltIn__FilterDatabase.Library Ref|TableNameOnly=Resistencies$Excel_BuiltIn__FilterDatabase|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap302]
-Options=FieldName=Semiconductors Diodes$.Footprint Ref|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Resistencies$Excel_BuiltIn__FilterDatabase.Footprint Ref|TableNameOnly=Resistencies$Excel_BuiltIn__FilterDatabase|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap303]
-Options=FieldName=Semiconductors Diodes$.Sim Description|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Part Number|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap304]
-Options=FieldName=Semiconductors Diodes$.Sim Excluded Parts|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Excluded Parts|FieldType=1|ParameterName=[Sim Excluded Parts]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Description|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap305]
-Options=FieldName=Semiconductors Diodes$.Sim File|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Library Ref|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap306]
-Options=FieldName=Semiconductors Diodes$.Sim Kind|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Footprint Ref|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap307]
-Options=FieldName=Semiconductors Diodes$.Sim Model Name|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim Description|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap308]
-Options=FieldName=Semiconductors Diodes$.Sim Netlist|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim Excluded Parts|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Excluded Parts|FieldType=1|ParameterName=[Sim Excluded Parts]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap309]
-Options=FieldName=Semiconductors Diodes$.Sim Parameters|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim File|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap310]
-Options=FieldName=Semiconductors Diodes$.Sim Port Map|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim Kind|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap311]
-Options=FieldName=Semiconductors Diodes$.Sim Spice Prefix|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim Model Name|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap312]
-Options=FieldName=Semiconductors Diodes$.Sim subKind|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim subKind|FieldType=1|ParameterName=[Sim subKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim Netlist|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap313]
-Options=FieldName=Semiconductors Diodes$.Value|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim Parameters|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap314]
-Options=FieldName=Semiconductors Transistors$.Part Number|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim Port Map|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap315]
-Options=FieldName=Semiconductors Transistors$.Description|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim Spice Prefix|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap316]
-Options=FieldName=Semiconductors Transistors$.Library Ref|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Sim subKind|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Sim subKind|FieldType=1|ParameterName=[Sim subKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap317]
-Options=FieldName=Semiconductors Transistors$.Footprint Ref|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Diodes$.Value|TableNameOnly=Semiconductors Diodes$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap318]
-Options=FieldName=Semiconductors Transistors$.Sim Description|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Part Number|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap319]
-Options=FieldName=Semiconductors Transistors$.Sim Excluded Parts|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Excluded Parts|FieldType=1|ParameterName=[Sim Excluded Parts]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Description|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap320]
-Options=FieldName=Semiconductors Transistors$.Sim File|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Library Ref|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap321]
-Options=FieldName=Semiconductors Transistors$.Sim Kind|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Footprint Ref|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap322]
-Options=FieldName=Semiconductors Transistors$.Sim Model Name|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim Description|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap323]
-Options=FieldName=Semiconductors Transistors$.Sim Netlist|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim Excluded Parts|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Excluded Parts|FieldType=1|ParameterName=[Sim Excluded Parts]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap324]
-Options=FieldName=Semiconductors Transistors$.Sim Parameters|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim File|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap325]
-Options=FieldName=Semiconductors Transistors$.Sim Port Map|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim Kind|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap326]
-Options=FieldName=Semiconductors Transistors$.Sim Spice Prefix|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim Model Name|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap327]
-Options=FieldName=Semiconductors Transistors$.Sim subKind|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim subKind|FieldType=1|ParameterName=[Sim subKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim Netlist|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap328]
-Options=FieldName=Sensors$.Part Number|TableNameOnly=Sensors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim Parameters|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap329]
-Options=FieldName=Sensors$.Description|TableNameOnly=Sensors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim Port Map|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap330]
-Options=FieldName=Sensors$.Library Ref|TableNameOnly=Sensors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim Spice Prefix|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap331]
-Options=FieldName=Sensors$.Footprint Ref|TableNameOnly=Sensors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Semiconductors Transistors$.Sim subKind|TableNameOnly=Semiconductors Transistors$|FieldNameOnly=Sim subKind|FieldType=1|ParameterName=[Sim subKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap332]
-Options=FieldName=Sensors$.Sim Description|TableNameOnly=Sensors$|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Part Number|TableNameOnly=Sensors$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap333]
-Options=FieldName=Sensors$.Sim Excluded Parts|TableNameOnly=Sensors$|FieldNameOnly=Sim Excluded Parts|FieldType=1|ParameterName=[Sim Excluded Parts]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Description|TableNameOnly=Sensors$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap334]
-Options=FieldName=Sensors$.Sim File|TableNameOnly=Sensors$|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Library Ref|TableNameOnly=Sensors$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap335]
-Options=FieldName=Sensors$.Sim Kind|TableNameOnly=Sensors$|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Footprint Ref|TableNameOnly=Sensors$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap336]
-Options=FieldName=Sensors$.Sim Model Name|TableNameOnly=Sensors$|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Sim Description|TableNameOnly=Sensors$|FieldNameOnly=Sim Description|FieldType=1|ParameterName=[Sim Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap337]
-Options=FieldName=Sensors$.Sim Netlist|TableNameOnly=Sensors$|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Sim Excluded Parts|TableNameOnly=Sensors$|FieldNameOnly=Sim Excluded Parts|FieldType=1|ParameterName=[Sim Excluded Parts]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap338]
-Options=FieldName=Sensors$.Sim Parameters|TableNameOnly=Sensors$|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Sim File|TableNameOnly=Sensors$|FieldNameOnly=Sim File|FieldType=1|ParameterName=[Sim File]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap339]
-Options=FieldName=Sensors$.Sim Port Map|TableNameOnly=Sensors$|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Sim Kind|TableNameOnly=Sensors$|FieldNameOnly=Sim Kind|FieldType=1|ParameterName=[Sim Kind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap340]
-Options=FieldName=Sensors$.Sim Spice Prefix|TableNameOnly=Sensors$|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=Sensors$.Sim Model Name|TableNameOnly=Sensors$|FieldNameOnly=Sim Model Name|FieldType=1|ParameterName=[Sim Model Name]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap341]
+Options=FieldName=Sensors$.Sim Netlist|TableNameOnly=Sensors$|FieldNameOnly=Sim Netlist|FieldType=1|ParameterName=[Sim Netlist]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap342]
+Options=FieldName=Sensors$.Sim Parameters|TableNameOnly=Sensors$|FieldNameOnly=Sim Parameters|FieldType=1|ParameterName=[Sim Parameters]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap343]
+Options=FieldName=Sensors$.Sim Port Map|TableNameOnly=Sensors$|FieldNameOnly=Sim Port Map|FieldType=1|ParameterName=[Sim Port Map]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap344]
+Options=FieldName=Sensors$.Sim Spice Prefix|TableNameOnly=Sensors$|FieldNameOnly=Sim Spice Prefix|FieldType=1|ParameterName=[Sim Spice Prefix]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap345]
 Options=FieldName=Sensors$.Sim subKind|TableNameOnly=Sensors$|FieldNameOnly=Sim subKind|FieldType=1|ParameterName=[Sim subKind]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
