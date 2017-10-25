@@ -1,0 +1,15 @@
+Component   : 2x10 YOKE PCB CONNECTOR
+PCB Library : FootprintsPersonals.PcbLib
+Date        : 26/07/2017
+Time        : 12:58:41
+
+
+
+Dimension : 51.054 x 12.954 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       0        0
+ Multi Layer                20          0        0       0        0
+--------------------------------------------------------------------
+ Total                      20          4        0       0        0
